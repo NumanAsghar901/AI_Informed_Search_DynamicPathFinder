@@ -21,3 +21,7 @@ Heuristics supported:
 Make sure Python is installed, then install Pygame:
 ```bash
 pip install pygame
+
+Run the Game File
+```bash
+python game.py
